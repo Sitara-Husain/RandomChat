@@ -1,0 +1,72 @@
+[
+{
+    "model": "chat.sentencecorpus",
+    "pk": 1,
+    "fields": {
+        "sentence": "Sun sets in the west."
+    }
+},
+{
+    "model": "chat.sentencecorpus",
+    "pk": 2,
+    "fields": {
+        "sentence": "Sky is blue."
+    }
+},
+{
+    "model": "chat.sentencecorpus",
+    "pk": 3,
+    "fields": {
+        "sentence": "Twinkle twinkle little stars."
+    }
+},
+{
+    "model": "chat.sentencecorpus",
+    "pk": 4,
+    "fields": {
+        "sentence": "A small river flows through the trees in the forest."
+    }
+},
+{
+    "model": "chat.sentencecorpus",
+    "pk": 5,
+    "fields": {
+        "sentence": "An old tall lighthouse helps ships find their way home."
+    }
+},
+{
+    "model": "chat.sentencecorpus",
+    "pk": 6,
+    "fields": {
+        "sentence": "People walk quickly in busy city streets."
+    }
+},
+{
+    "model": "chat.sentencecorpus",
+    "pk": 7,
+    "fields": {
+        "sentence": "The air is fresh and the view is nice in the high mountains."
+    }
+},
+{
+    "model": "chat.sentencecorpus",
+    "pk": 8,
+    "fields": {
+        "sentence": "Stars shine in the sky on quiet nights."
+    }
+},
+{
+    "model": "chat.sentencecorpus",
+    "pk": 9,
+    "fields": {
+        "sentence": "Flowers move in the wind in a big grassy field."
+    }
+},
+{
+    "model": "chat.sentencecorpus",
+    "pk": 10,
+    "fields": {
+        "sentence": "A fire burns warmly in the fireplace of a small house."
+    }
+}
+]
